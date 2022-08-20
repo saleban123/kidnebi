@@ -1,0 +1,35 @@
+ul {
+    list-style-type: none;
+    padding: 0%;
+    margin: 0;
+    color: rgb(60, 119, 146);
+}
+body {
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+li {
+    display: inline;
+    float: right;
+}
+li a {
+    display:  block;
+padding: 8px;  
+background-color: rgb(92, 171, 224); 
+color: cadetblue; 
+}
+
+li a:hover {
+    background-color: rgb(60, 126, 131);
+}
+.active {
+    background-color: rgb(8, 36, 37);
+}
+
+h1 {
+    color: cornflowerblue;
+    text-align: center;
+    font-size: 70px;
+}
