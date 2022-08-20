@@ -20,14 +20,12 @@ padding: 8px;
 background-color: rgb(92, 171, 224); 
 color: cadetblue; 
 }
-
 li a:hover {
     background-color: rgb(60, 126, 131);
 }
 .active {
     background-color: rgb(8, 36, 37);
 }
-
 h1 {
     color: cornflowerblue;
     text-align: center;
